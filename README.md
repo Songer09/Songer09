@@ -34,5 +34,4 @@ Responsabilidad · Comunicación · Trabajo en equipo · Adaptabilidad · Pensam
 
 ### 📫 ¿Quieres contactarme?
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/gerson-palma-collante-b6a881273)
-- 📧 gerson.palma.dev@gmail.com *(puedes crear este como correo profesional si te parece bien)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/gerson-palma-dev)
