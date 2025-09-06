@@ -11,9 +11,9 @@
 ### 👨‍💻 Tecnologías que manejo
 
 - **Lenguajes**: JavaScript, Java, SQL
-- **Backend**: Node.js, Express.js, Sequelize
-- **Bases de datos**: PostgreSQL, MySQL, MongoDB (en aprendizaje)
-- **Herramientas**: Git, GitHub, Power BI
+- **Backend**: Node.js, Express.js, Sequelize, Mongoose
+- **Bases de datos**: PostgreSQL, MySQL, MongoDB
+- **Herramientas**: Git, GitHub, Power BI, Docker
 - **Otros**: JWT, bcrypt, validaciones, APIs REST
 
 ---
