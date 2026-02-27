@@ -75,7 +75,6 @@ Complete backend system integrating WhatsApp ordering, inventory and multi-tenan
 ✔ Anti-spam notification system  
 ✔ Atomic transactions & error standardization  
 
-👉 Repository: [FoodBot](https://github.com/Songer09)
 
 ---
 
