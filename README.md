@@ -75,6 +75,7 @@ Complete backend system integrating WhatsApp ordering, inventory and multi-tenan
 ✔ Anti-spam notification system  
 ✔ Atomic transactions & error standardization  
 
+FoodBot (Private Commercial Project)
 
 ---
 
